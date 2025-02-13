@@ -1,0 +1,501 @@
+item_id,category,color,price,brand
+1,Outerwear,Red,290.29,Levi's
+2,Bags,Brown,673.87,Uniqlo
+3,Shirts,Purple,252.18,Nike
+4,Swimwear,Green,904.94,Chanel
+5,Activewear,Red,778.38,Louis Vuitton
+6,Dresses,Gray,939.01,Uniqlo
+7,Pants,Red,589.61,Louis Vuitton
+8,Shoes,Blue,906.27,H&M
+9,Shirts,Black,57.99,Chanel
+10,Outerwear,Purple,351.19,Adidas
+11,Pants,Gray,135.92,Levi's
+12,Accessories,Purple,409.73,Prada
+13,Shirts,White,255.07,Zara
+14,Outerwear,Yellow,177.43,Levi's
+15,Accessories,Red,33.82,Adidas
+16,Swimwear,Blue,690.76,Nike
+17,Accessories,Yellow,259.34,Prada
+18,Shoes,Red,955.1,Gucci
+19,Bags,Gray,516.7,Chanel
+20,Dresses,Red,372.99,Nike
+21,Outerwear,Purple,666.78,Prada
+22,Dresses,White,58.79,Gucci
+23,Accessories,White,520.78,H&M
+24,Pants,Brown,630.54,Zara
+25,Shirts,Green,793.71,H&M
+26,Swimwear,Red,86.19,Levi's
+27,Underwear,Green,387.85,Louis Vuitton
+28,Activewear,Black,646.44,Prada
+29,Bags,White,892.41,Uniqlo
+30,Accessories,Pink,149.62,Zara
+31,Outerwear,Red,968.38,Uniqlo
+32,Accessories,Purple,375.54,Louis Vuitton
+33,Bags,Yellow,246.48,Chanel
+34,Shoes,Black,305.19,Adidas
+35,Shirts,Brown,133.52,Adidas
+36,Outerwear,Pink,776.7,Prada
+37,Shoes,Gray,536.88,Adidas
+38,Swimwear,Green,201.44,Louis Vuitton
+39,Outerwear,Blue,634.13,Louis Vuitton
+40,Shirts,Yellow,36.65,Uniqlo
+41,Accessories,Purple,408.94,Uniqlo
+42,Outerwear,Blue,636.65,Adidas
+43,Shoes,Red,157.77,Chanel
+44,Swimwear,White,885.31,Gucci
+45,Shoes,White,126.31,H&M
+46,Underwear,Red,690.5,Zara
+47,Shoes,Brown,627.78,Louis Vuitton
+48,Swimwear,White,970.14,Levi's
+49,Pants,Black,598.07,Gucci
+50,Swimwear,Yellow,184.59,Nike
+51,Underwear,Brown,483.59,Prada
+52,Shirts,Gray,548.7,Nike
+53,Bags,Brown,93.78,Chanel
+54,Accessories,Purple,458.49,Levi's
+55,Shoes,Pink,865.79,H&M
+56,Dresses,Red,931.13,Adidas
+57,Underwear,Green,679.45,Uniqlo
+58,Outerwear,Green,462.41,Zara
+59,Shoes,White,803.3,Prada
+60,Underwear,White,847.19,Prada
+61,Underwear,Yellow,160.47,Adidas
+62,Pants,Yellow,753.32,Louis Vuitton
+63,Accessories,Brown,799.69,Louis Vuitton
+64,Dresses,Gray,439.85,Prada
+65,Outerwear,Pink,981.93,Nike
+66,Swimwear,Green,163.68,Nike
+67,Outerwear,Black,211.57,Levi's
+68,Bags,Gray,83.61,Prada
+69,Outerwear,Pink,493.31,Levi's
+70,Bags,Purple,224.68,Louis Vuitton
+71,Activewear,Red,979.56,H&M
+72,Outerwear,Green,678.58,H&M
+73,Activewear,Green,414.09,Chanel
+74,Swimwear,Blue,265.27,Gucci
+75,Accessories,Black,243.42,H&M
+76,Dresses,Purple,829.23,Levi's
+77,Accessories,Purple,287.27,Adidas
+78,Shoes,Purple,405.93,Chanel
+79,Shoes,Pink,995.54,Prada
+80,Shirts,White,962.44,Levi's
+81,Shoes,Green,96.11,Uniqlo
+82,Outerwear,Blue,72.84,Louis Vuitton
+83,Shirts,Red,99.53,Adidas
+84,Shirts,White,81.81,Chanel
+85,Accessories,Brown,542.01,Levi's
+86,Outerwear,Brown,346.48,Levi's
+87,Bags,Red,651.54,Chanel
+88,Shirts,Green,490.5,Uniqlo
+89,Pants,Purple,544.23,Louis Vuitton
+90,Shoes,Red,558.87,Levi's
+91,Accessories,Yellow,847.93,Uniqlo
+92,Underwear,Black,716.76,Zara
+93,Underwear,Pink,609.95,Prada
+94,Shoes,Black,724.96,Uniqlo
+95,Outerwear,Green,650.69,Nike
+96,Dresses,Blue,478.56,Uniqlo
+97,Accessories,White,901.83,Nike
+98,Pants,Gray,449.26,Chanel
+99,Activewear,Red,201.67,Levi's
+100,Dresses,Pink,243.53,Chanel
+101,Swimwear,Pink,921.94,Levi's
+102,Underwear,Green,638.75,H&M
+103,Outerwear,Black,32.31,Gucci
+104,Dresses,Pink,187.32,Prada
+105,Outerwear,White,909.21,Nike
+106,Shoes,Purple,859.2,Levi's
+107,Outerwear,Pink,305.47,Levi's
+108,Swimwear,Blue,271.2,Chanel
+109,Swimwear,Green,442.91,Chanel
+110,Shirts,Pink,999.92,Louis Vuitton
+111,Bags,Yellow,874.28,Prada
+112,Outerwear,Pink,253.99,Uniqlo
+113,Underwear,Gray,646.13,Gucci
+114,Accessories,Red,841.03,Chanel
+115,Dresses,Yellow,133.99,Uniqlo
+116,Dresses,Yellow,893.96,Chanel
+117,Underwear,Green,161.44,Adidas
+118,Underwear,Purple,595.82,Nike
+119,Activewear,Red,72.97,Louis Vuitton
+120,Shoes,Blue,202.19,H&M
+121,Swimwear,Brown,466.94,Nike
+122,Pants,Brown,331.56,Nike
+123,Swimwear,Purple,748.74,Adidas
+124,Outerwear,Green,58.45,Gucci
+125,Shirts,Purple,645.0,H&M
+126,Shoes,Pink,392.89,Levi's
+127,Underwear,Purple,42.5,Adidas
+128,Shoes,Yellow,567.42,Nike
+129,Outerwear,White,809.57,Chanel
+130,Shoes,Pink,164.99,Louis Vuitton
+131,Shirts,Black,284.13,Levi's
+132,Shoes,Black,986.67,Nike
+133,Bags,Pink,260.45,Gucci
+134,Bags,White,465.4,Gucci
+135,Underwear,Green,760.9,H&M
+136,Dresses,Red,41.29,Uniqlo
+137,Activewear,Blue,202.65,Uniqlo
+138,Underwear,Purple,445.73,Gucci
+139,Dresses,Green,684.57,Uniqlo
+140,Outerwear,Black,414.82,Chanel
+141,Accessories,Gray,404.61,Louis Vuitton
+142,Pants,Yellow,733.14,Nike
+143,Dresses,Black,578.92,Prada
+144,Shirts,Green,221.42,H&M
+145,Underwear,Pink,197.25,Prada
+146,Activewear,Black,214.51,Uniqlo
+147,Pants,Green,514.49,Louis Vuitton
+148,Outerwear,Black,597.98,Uniqlo
+149,Accessories,Black,653.92,H&M
+150,Accessories,Gray,922.18,Prada
+151,Swimwear,Green,699.71,Chanel
+152,Activewear,Green,809.13,Levi's
+153,Shoes,Pink,330.52,Nike
+154,Dresses,Yellow,985.5,Chanel
+155,Accessories,Pink,106.34,H&M
+156,Pants,Black,863.21,Levi's
+157,Swimwear,Gray,331.6,Prada
+158,Pants,Blue,480.54,Adidas
+159,Accessories,Blue,829.81,Gucci
+160,Underwear,Yellow,105.46,Nike
+161,Pants,Yellow,191.43,Nike
+162,Accessories,Yellow,314.2,Adidas
+163,Accessories,Red,902.65,Chanel
+164,Shirts,Red,931.82,Chanel
+165,Dresses,Gray,274.25,Levi's
+166,Activewear,Blue,89.41,Chanel
+167,Underwear,White,843.53,Levi's
+168,Accessories,Purple,725.61,Adidas
+169,Outerwear,Purple,702.59,Chanel
+170,Shirts,Yellow,880.15,Gucci
+171,Shoes,Pink,330.28,Levi's
+172,Accessories,Brown,934.25,Louis Vuitton
+173,Bags,Red,50.85,Louis Vuitton
+174,Swimwear,Pink,627.76,H&M
+175,Pants,Green,287.73,Chanel
+176,Pants,Green,797.49,Nike
+177,Pants,Blue,733.58,Chanel
+178,Dresses,Pink,858.64,Uniqlo
+179,Swimwear,Pink,62.46,Chanel
+180,Accessories,Green,709.87,Adidas
+181,Accessories,Blue,256.71,Zara
+182,Activewear,Blue,857.36,Uniqlo
+183,Underwear,Red,864.62,Zara
+184,Swimwear,Black,784.71,Nike
+185,Shirts,Blue,416.06,Adidas
+186,Swimwear,Red,397.01,Adidas
+187,Swimwear,Pink,118.91,Levi's
+188,Dresses,Green,780.26,Zara
+189,Shoes,Green,703.82,Nike
+190,Underwear,Green,661.92,Gucci
+191,Pants,Green,791.4,Louis Vuitton
+192,Shoes,Blue,575.47,Levi's
+193,Outerwear,Purple,833.02,H&M
+194,Activewear,Black,692.96,Zara
+195,Swimwear,Purple,491.82,Prada
+196,Shoes,Yellow,33.96,Uniqlo
+197,Outerwear,Yellow,472.56,Adidas
+198,Pants,Yellow,415.36,H&M
+199,Swimwear,Pink,729.31,Adidas
+200,Accessories,White,68.93,H&M
+201,Activewear,Black,200.93,Uniqlo
+202,Activewear,Black,507.38,H&M
+203,Accessories,Green,600.38,Levi's
+204,Shirts,White,241.67,Levi's
+205,Pants,White,464.72,Levi's
+206,Outerwear,Pink,281.03,Louis Vuitton
+207,Outerwear,Purple,787.9,Gucci
+208,Accessories,Purple,552.3,Zara
+209,Outerwear,Gray,463.33,H&M
+210,Swimwear,Purple,612.77,Adidas
+211,Swimwear,Pink,308.05,Levi's
+212,Underwear,Gray,880.16,Adidas
+213,Activewear,Blue,721.08,H&M
+214,Activewear,Pink,346.71,Zara
+215,Pants,Black,277.14,Gucci
+216,Outerwear,Blue,450.73,Chanel
+217,Accessories,Green,383.06,Nike
+218,Underwear,Black,899.98,Louis Vuitton
+219,Accessories,Brown,949.43,Nike
+220,Outerwear,White,725.02,Louis Vuitton
+221,Dresses,Red,325.47,Levi's
+222,Bags,Blue,124.05,H&M
+223,Underwear,Pink,547.13,Prada
+224,Underwear,Red,596.38,Louis Vuitton
+225,Shoes,White,964.21,Chanel
+226,Dresses,Purple,437.64,Prada
+227,Accessories,White,759.58,Nike
+228,Dresses,Yellow,708.22,Chanel
+229,Shirts,Black,872.49,H&M
+230,Bags,Pink,787.77,Zara
+231,Pants,Brown,906.99,Louis Vuitton
+232,Outerwear,Red,760.22,Uniqlo
+233,Bags,Brown,487.59,Adidas
+234,Swimwear,Black,885.82,Chanel
+235,Swimwear,Red,234.01,Levi's
+236,Underwear,Yellow,636.78,Louis Vuitton
+237,Pants,Gray,783.49,H&M
+238,Activewear,Black,311.33,Chanel
+239,Swimwear,Blue,871.57,Levi's
+240,Swimwear,Red,605.97,Gucci
+241,Shirts,Gray,116.73,Gucci
+242,Swimwear,Yellow,676.78,Chanel
+243,Activewear,Green,130.6,Levi's
+244,Shirts,Gray,684.49,Nike
+245,Activewear,Yellow,556.97,Louis Vuitton
+246,Outerwear,Yellow,23.05,Gucci
+247,Accessories,Gray,410.55,Zara
+248,Shoes,Gray,830.89,Chanel
+249,Shirts,Pink,82.6,Gucci
+250,Accessories,Green,734.95,Nike
+251,Shoes,Gray,188.5,Gucci
+252,Outerwear,Red,799.3,Levi's
+253,Underwear,Black,403.67,Adidas
+254,Bags,Red,704.37,Nike
+255,Outerwear,Blue,564.81,H&M
+256,Activewear,Yellow,611.4,Adidas
+257,Pants,Black,809.63,Zara
+258,Accessories,White,660.77,Nike
+259,Dresses,Red,538.28,Adidas
+260,Accessories,Red,182.55,Prada
+261,Outerwear,White,422.55,H&M
+262,Shoes,White,670.17,Prada
+263,Shirts,Black,158.63,Chanel
+264,Bags,Yellow,600.14,Uniqlo
+265,Shirts,Gray,708.23,Gucci
+266,Bags,Green,25.89,Louis Vuitton
+267,Outerwear,White,566.08,Levi's
+268,Shoes,Black,342.93,Uniqlo
+269,Shirts,White,652.67,Adidas
+270,Pants,Gray,642.65,Nike
+271,Outerwear,Pink,633.68,Gucci
+272,Shirts,White,682.49,Prada
+273,Shirts,White,542.73,Louis Vuitton
+274,Pants,Gray,730.6,Prada
+275,Shirts,Gray,842.06,Adidas
+276,Shirts,Brown,715.66,H&M
+277,Bags,Red,434.03,Uniqlo
+278,Activewear,Green,971.44,Zara
+279,Pants,Gray,475.42,Adidas
+280,Outerwear,Gray,720.25,Prada
+281,Underwear,Blue,843.11,Prada
+282,Shirts,Black,780.85,Prada
+283,Shoes,Brown,900.67,Prada
+284,Outerwear,Green,527.83,Chanel
+285,Activewear,Brown,431.54,Chanel
+286,Pants,Black,239.33,H&M
+287,Outerwear,Blue,922.52,Nike
+288,Underwear,Red,691.5,Nike
+289,Swimwear,White,211.04,Prada
+290,Shoes,White,920.89,Uniqlo
+291,Accessories,Yellow,128.22,H&M
+292,Pants,Pink,119.65,Uniqlo
+293,Underwear,Pink,720.21,Zara
+294,Shoes,Green,312.07,H&M
+295,Swimwear,Red,232.81,Levi's
+296,Shirts,Black,810.29,Prada
+297,Pants,Brown,905.17,Chanel
+298,Underwear,Green,300.63,Gucci
+299,Bags,Yellow,378.31,Uniqlo
+300,Outerwear,Blue,757.98,Zara
+301,Shoes,Blue,466.6,Prada
+302,Dresses,Pink,268.24,Nike
+303,Activewear,Red,632.95,Louis Vuitton
+304,Accessories,Green,743.63,Adidas
+305,Swimwear,Purple,121.62,H&M
+306,Shoes,Blue,91.25,Uniqlo
+307,Underwear,Green,595.04,Chanel
+308,Swimwear,Brown,620.69,Levi's
+309,Pants,Purple,184.61,Chanel
+310,Swimwear,Brown,92.36,Louis Vuitton
+311,Bags,Gray,80.84,Prada
+312,Shoes,Blue,16.02,H&M
+313,Outerwear,Blue,622.48,Gucci
+314,Pants,Gray,527.95,Prada
+315,Swimwear,Green,83.17,Adidas
+316,Swimwear,Yellow,23.32,H&M
+317,Underwear,Green,484.86,Levi's
+318,Bags,Yellow,387.43,Uniqlo
+319,Dresses,White,366.03,Adidas
+320,Outerwear,Purple,233.77,Uniqlo
+321,Shoes,Gray,115.82,Adidas
+322,Accessories,White,923.68,Adidas
+323,Outerwear,Blue,633.14,Chanel
+324,Outerwear,Red,872.17,Chanel
+325,Shirts,Brown,766.67,Adidas
+326,Swimwear,Brown,713.2,Levi's
+327,Bags,Brown,873.38,Levi's
+328,Accessories,Pink,158.66,Prada
+329,Shoes,Purple,585.26,Prada
+330,Activewear,Brown,745.8,Uniqlo
+331,Activewear,Brown,216.12,Uniqlo
+332,Outerwear,Black,784.28,Prada
+333,Accessories,White,193.17,Zara
+334,Swimwear,Yellow,836.25,Adidas
+335,Shirts,Purple,297.26,Louis Vuitton
+336,Activewear,White,276.19,Levi's
+337,Shoes,Blue,104.56,Nike
+338,Outerwear,Red,544.78,Zara
+339,Shirts,Pink,451.79,Chanel
+340,Underwear,Red,575.44,Gucci
+341,Swimwear,Pink,720.95,Zara
+342,Accessories,Purple,225.04,Louis Vuitton
+343,Accessories,Red,106.26,Louis Vuitton
+344,Outerwear,Pink,60.88,Adidas
+345,Underwear,Brown,274.75,Levi's
+346,Pants,Blue,292.52,Chanel
+347,Dresses,Red,127.49,H&M
+348,Bags,Black,631.03,Adidas
+349,Shirts,Red,518.89,Adidas
+350,Bags,Blue,755.88,Gucci
+351,Underwear,White,760.67,Gucci
+352,Accessories,Gray,652.46,Adidas
+353,Outerwear,Pink,657.41,Uniqlo
+354,Activewear,Blue,53.35,Uniqlo
+355,Dresses,Purple,659.97,Zara
+356,Dresses,Black,951.34,Adidas
+357,Underwear,Yellow,470.38,Prada
+358,Shoes,Blue,922.58,Gucci
+359,Accessories,Yellow,385.96,H&M
+360,Swimwear,Red,78.56,Zara
+361,Outerwear,Red,53.09,Chanel
+362,Bags,Black,765.95,Uniqlo
+363,Outerwear,Green,70.4,Prada
+364,Swimwear,White,628.15,Uniqlo
+365,Dresses,Yellow,471.08,Levi's
+366,Shoes,Pink,395.68,Zara
+367,Activewear,Blue,630.9,Zara
+368,Dresses,Gray,744.35,Uniqlo
+369,Activewear,Black,937.58,H&M
+370,Activewear,Green,864.73,Nike
+371,Activewear,Red,906.53,Nike
+372,Dresses,Pink,985.98,Gucci
+373,Outerwear,Black,616.8,Nike
+374,Shirts,Gray,607.37,Levi's
+375,Underwear,Red,659.13,Louis Vuitton
+376,Activewear,Brown,89.82,Zara
+377,Shoes,Black,909.4,Zara
+378,Activewear,Purple,657.95,Zara
+379,Swimwear,Gray,792.59,Prada
+380,Underwear,Blue,317.21,Zara
+381,Activewear,Blue,793.7,Prada
+382,Bags,Brown,163.55,Gucci
+383,Bags,Purple,466.13,Adidas
+384,Pants,Yellow,536.59,Gucci
+385,Pants,Red,583.59,Chanel
+386,Pants,Pink,579.53,Prada
+387,Swimwear,Red,596.97,Louis Vuitton
+388,Dresses,White,305.04,Levi's
+389,Swimwear,Pink,347.51,Gucci
+390,Swimwear,Blue,17.51,Chanel
+391,Dresses,Purple,68.92,Adidas
+392,Pants,Black,119.51,H&M
+393,Bags,Pink,87.27,Levi's
+394,Activewear,Black,486.66,Zara
+395,Underwear,Yellow,548.42,Gucci
+396,Underwear,Brown,530.55,Gucci
+397,Activewear,Red,371.77,Chanel
+398,Accessories,Brown,973.79,Gucci
+399,Shoes,Brown,161.86,Gucci
+400,Accessories,Pink,379.2,Levi's
+401,Swimwear,Purple,594.13,Zara
+402,Outerwear,White,61.42,Uniqlo
+403,Dresses,Gray,637.84,Chanel
+404,Pants,White,566.37,Prada
+405,Bags,Yellow,151.47,Louis Vuitton
+406,Bags,Green,234.52,Uniqlo
+407,Pants,Yellow,616.41,Uniqlo
+408,Outerwear,Pink,36.17,Chanel
+409,Outerwear,Black,316.34,Prada
+410,Underwear,Yellow,883.45,Zara
+411,Pants,Purple,869.51,H&M
+412,Shirts,Black,324.29,H&M
+413,Outerwear,Red,978.47,Uniqlo
+414,Dresses,Red,649.77,H&M
+415,Activewear,White,956.28,Chanel
+416,Outerwear,Blue,58.8,Louis Vuitton
+417,Swimwear,Pink,810.61,Prada
+418,Pants,Brown,380.53,Gucci
+419,Pants,Black,823.32,Uniqlo
+420,Accessories,White,701.28,Louis Vuitton
+421,Dresses,Purple,287.04,Levi's
+422,Dresses,Red,311.11,Levi's
+423,Outerwear,Green,607.88,H&M
+424,Shirts,White,522.81,Chanel
+425,Underwear,Blue,779.84,Nike
+426,Underwear,Brown,138.3,Gucci
+427,Outerwear,White,86.47,Nike
+428,Swimwear,Brown,138.28,Adidas
+429,Outerwear,Brown,663.94,Zara
+430,Outerwear,Gray,815.58,H&M
+431,Outerwear,Purple,569.42,Gucci
+432,Pants,Green,687.47,Louis Vuitton
+433,Pants,White,561.82,Louis Vuitton
+434,Accessories,Gray,318.4,H&M
+435,Dresses,Green,61.01,Louis Vuitton
+436,Swimwear,Brown,89.46,Uniqlo
+437,Pants,Gray,344.59,H&M
+438,Shoes,White,974.81,Adidas
+439,Accessories,Blue,614.79,Gucci
+440,Underwear,Purple,74.64,Zara
+441,Accessories,Brown,320.13,Uniqlo
+442,Activewear,Yellow,140.42,Uniqlo
+443,Shirts,Brown,48.64,Gucci
+444,Shoes,Yellow,68.05,Zara
+445,Pants,White,59.15,Chanel
+446,Outerwear,Green,334.64,Levi's
+447,Shirts,Yellow,952.62,Louis Vuitton
+448,Shirts,Gray,142.26,Chanel
+449,Outerwear,Gray,397.65,Louis Vuitton
+450,Swimwear,Purple,608.15,Uniqlo
+451,Swimwear,Brown,760.69,Levi's
+452,Underwear,White,130.36,Nike
+453,Pants,Red,638.43,H&M
+454,Shoes,Purple,233.06,Chanel
+455,Bags,Brown,729.62,Adidas
+456,Outerwear,Green,224.61,Adidas
+457,Shirts,Gray,102.56,Nike
+458,Shoes,Black,702.35,Prada
+459,Dresses,Red,358.85,Nike
+460,Shirts,Brown,90.19,Uniqlo
+461,Pants,Black,866.43,H&M
+462,Underwear,Black,25.57,Nike
+463,Outerwear,Gray,392.29,Adidas
+464,Swimwear,Gray,941.06,Gucci
+465,Activewear,Gray,462.78,Nike
+466,Underwear,Yellow,137.53,Prada
+467,Swimwear,Blue,609.54,Prada
+468,Pants,White,551.6,Adidas
+469,Dresses,Brown,494.57,Nike
+470,Swimwear,White,353.22,Adidas
+471,Swimwear,Brown,316.16,Uniqlo
+472,Underwear,Blue,961.95,Nike
+473,Activewear,Brown,521.03,Nike
+474,Swimwear,Red,209.48,Louis Vuitton
+475,Bags,Green,943.94,Louis Vuitton
+476,Accessories,Red,426.13,Nike
+477,Pants,Purple,18.21,Prada
+478,Shirts,Pink,953.67,Louis Vuitton
+479,Shirts,Yellow,578.42,Adidas
+480,Shoes,White,272.21,Prada
+481,Activewear,Black,630.56,Louis Vuitton
+482,Pants,Green,670.65,Louis Vuitton
+483,Activewear,Green,961.14,Adidas
+484,Swimwear,White,849.96,Levi's
+485,Swimwear,Black,977.54,H&M
+486,Activewear,Gray,223.29,Adidas
+487,Outerwear,Black,571.02,Zara
+488,Outerwear,Red,606.21,Chanel
+489,Shirts,Black,947.94,Chanel
+490,Outerwear,Gray,207.16,Prada
+491,Accessories,Black,937.56,Levi's
+492,Swimwear,Green,736.66,Adidas
+493,Shirts,Purple,539.93,Gucci
+494,Activewear,Purple,852.24,Levi's
+495,Swimwear,Red,170.19,Louis Vuitton
+496,Underwear,Black,783.12,Zara
+497,Dresses,Black,398.22,Louis Vuitton
+498,Bags,White,413.66,Levi's
+499,Activewear,Brown,384.84,Adidas
+500,Outerwear,Gray,573.0,Gucci
